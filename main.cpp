@@ -3,6 +3,7 @@
 using namespace std;
 int main()
 {
+    // hello this code calculates 1s complements of your binary number
     int i;
     cout << "no of digits of your binary no = ";
     cin >> i;
