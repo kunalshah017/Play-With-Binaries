@@ -1,6 +1,6 @@
 # My Changes 
 *.ini
-.vscode
+.vscode/
 
 # Prerequisites
 *.d
@@ -31,6 +31,5 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
