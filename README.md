@@ -21,9 +21,8 @@
 ## Installation
 
 To use our codes, simply clone this repository using the following command:  
-```c++ 
+```
 https://github.com/kunalshah017/Play-With-Binaries.git
-
 ```
 
 ## Usage
