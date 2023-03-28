@@ -50,7 +50,7 @@ All credits goes to the contributers for giving their time to this project
 
 
 <!--START_SECTION:contributors-->
-chmod +x add_contributors.sh
+
 <!--END_SECTION:contributors-->
 
 ## License
