@@ -1,8 +1,13 @@
 # Binary Arithmetic in C++
 
-Welcome to our repository for binary arithmetic in C++! This repository contains codes related to binary arithmetic operations like addition, subtraction, multiplication, and division. Our codes also feature 1's complement and 2's complement of binary arithmetic.
-
-![A kid playing with binary numbers](https://media.discordapp.net/attachments/990816819654852648/1090162827173576704/Kunal._.S_a_kid_playing_with_binary_numbers__realistic__4k_3a8e2a5c-c5f5-43b9-b180-51cffcb16830.png?width=498&height=498)
+<div style="display:flex;">
+  <div style="flex:1;">
+    Welcome to our repository for binary arithmetic in C++! This repository contains codes related to binary arithmetic operations like addition, subtraction, multiplication, and division. Our codes also feature 1's complement and 2's complement of binary arithmetic.
+  </div>
+  <div style="flex:1;">
+    <img src="https://media.discordapp.net/attachments/990816819654852648/1090162827173576704/Kunal._.S_a_kid_playing_with_binary_numbers__realistic__4k_3a8e2a5c-c5f5-43b9-b180-51cffcb16830.png?width=498&height=498" alt="A kid playing with binary numbers" align="right" width=400>
+  </div>
+</div>
 
 ## Table of Contents
 
@@ -18,6 +23,7 @@ Welcome to our repository for binary arithmetic in C++! This repository contains
 To use our codes, simply clone this repository using the following command:  
 ```c++ 
 git clone https://github.com/<your_username>/<your_repository>.git
+
 ```
 
 ## Usage
