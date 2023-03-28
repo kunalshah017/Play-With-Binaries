@@ -22,7 +22,7 @@
 
 To use our codes, simply clone this repository using the following command:  
 ```c++ 
-git clone https://github.com/<your_username>/<your_repository>.git
+https://github.com/kunalshah017/Play-With-Binaries.git
 
 ```
 
