@@ -11,6 +11,10 @@
   </div>
 </div>
 
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=kunalshah017/Play-With-Binaries)](https://github.com/kunalshah017/Play-With-Binaries/graphs/contributors)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -54,9 +58,7 @@ All credits goes to the contributers for giving their time to this project
 
 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
 
-## Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=kunalshah017/Play-With-Binaries)](https://github.com/kunalshah017/Play-With-Binaries/graphs/contributors)
 
 
 
