@@ -7,6 +7,7 @@
     Welcome to our repository for binary arithmetic in C++! This repository contains codes related to binary arithmetic operations like addition, subtraction, multiplication, and division. Our codes also feature 1's complement and 2's complement of binary arithmetic.
   </div>
   <div style="flex:1;">
+<br>
     <img src="https://media.discordapp.net/attachments/990816819654852648/1090162827173576704/Kunal._.S_a_kid_playing_with_binary_numbers__realistic__4k_3a8e2a5c-c5f5-43b9-b180-51cffcb16830.png?width=498&height=498" alt="A kid playing with binary numbers" align="right" width=400>
   </div>
 </div>
